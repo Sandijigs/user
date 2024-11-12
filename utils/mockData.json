@@ -1,0 +1,66 @@
+[
+  {
+    "id": "0",
+    "name": "Austin French",
+    "email": "jane@example.com",
+    "role": "user",
+    "status": "active",
+    "profilePhoto": "/austin.jpg"
+  },
+  {
+    "id": "1",
+    "name": "Browdy James",
+    "email": "browdy@gmail.com",
+    "role": "admin",
+    "status": "active",
+    "profilePhoto": "/Browdy.jpg"
+  },
+  {
+    "id": "2",
+    "name": "chinedu Saint Jame",
+    "email": "jsaint@pos.com",
+    "role": "user",
+    "status": "inactive",
+    "profilePhoto": "/chinedu.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Chioma Okes",
+    "email": "jokies@falss.com",
+    "role": "user",
+    "status": "inactive",
+    "profilePhoto": "/chioma.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Chloe Smith",
+    "email": "chloe@gigs.com",
+    "role": "admin",
+    "status": "inactive",
+    "profilePhoto": "/chloe.jpg"
+  },
+  {
+    "id": "5",
+    "name": "chris Apples",
+    "email": "chris@gigs.com",
+    "role": "guest",
+    "status": "inactive",
+    "profilePhoto": "/chris.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Clarke Kent",
+    "email": "clark@gigs.com",
+    "role": "user",
+    "status": "active",
+    "profilePhoto": "/clarke.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Jane Mcdonalds",
+    "email": "jane.@gigs.com",
+    "role": "user",
+    "status": "inactive",
+    "profilePhoto": "/jane.jpg"
+  }
+]
